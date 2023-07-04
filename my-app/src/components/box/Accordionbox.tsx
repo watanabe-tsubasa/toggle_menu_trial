@@ -1,22 +1,7 @@
 import * as React from "react"
 import {
   Accordion,
-  AccordionItem,
-  AccordionButton,
-  AccordionPanel,
-  AccordionIcon,
-  ChakraProvider,
-  Box,
-  Button,
-  Collapse,
-  Text,
-  Link,
-  VStack,
-  Stack,
-  HStack,
-  Code,
-  Grid,
-  theme,
+  Box
 } from "@chakra-ui/react"
 
 import { Accordionelem } from "./items/Accordionelem"

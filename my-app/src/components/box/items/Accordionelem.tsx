@@ -1,15 +1,12 @@
 import * as React from "react"
 import {
-  Accordion,
   AccordionItem,
   AccordionButton,
   AccordionPanel,
   AccordionIcon,
-  ChakraProvider,
   Box,
   Heading,
-  Text,
-  theme,
+  Text
 } from "@chakra-ui/react"
 
 type AccordionelemProps = {

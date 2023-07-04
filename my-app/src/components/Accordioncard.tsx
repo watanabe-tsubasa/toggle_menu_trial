@@ -1,13 +1,8 @@
 import * as React from "react"
 import {
-  ChakraProvider,
   Box,
-  Card, CardHeader, CardBody, CardFooter,
+  Card, CardHeader, CardBody,
   Heading,
-  Stack,
-  StackDivider,
-  Text,
-  theme,
 } from "@chakra-ui/react"
 import { Accordionbox } from "./box/Accordionbox"
 
